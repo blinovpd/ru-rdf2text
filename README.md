@@ -1,5 +1,7 @@
 Code for the paper [Semantic Triples Verbalization with Generative Pre-Training Model](https://aclanthology.org/2020.webnlg-1.17.pdf) by Pavel Blinov.
 
+[Video](https://youtu.be/CR0SjX2fnHo)
+
 ### How to run
 0. Clone the repo.
 1. Check requirements / install with `pip install -r requirements.txt`.
